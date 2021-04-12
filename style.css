@@ -1,0 +1,39 @@
+h1{
+    background-color: #55c57a;
+}
+.block {
+    background-color: navajowhite;
+}
+
+.block-p {
+    font-size: 20px;
+}
+
+.span{
+    background-color: #28b485;
+}
+
+a{
+    background-color: #ffb990;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    text-align: center
+    /*margin: 0 auto;*/
+}
+
+img {
+    max-width: 300px;
+}
+
+#grid1{
+    background-color: #7ed56f;
+}
+#grid2{
+background-color: #28b485;
+}
+#grid3{
+background-color: #55c57a;
+}
